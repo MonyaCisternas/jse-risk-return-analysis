@@ -2,6 +2,16 @@
 This project analyses the risk and return characteristics of selected Johannesburg Stock Exchange (JSE) equities using Python. The goal is to evaluate asset performance using common financial metrics and visualize relationships between different stocks.
 The analysis focuses on measuring volatility, correlations, and risk-adjusted returns to better understand how different equities perform relative to their level of risk.
 
+## Chart Examples
+The below snippets are from the JSE Stocks analysis report:
+
+<img width="462" height="334" alt="Snippet 1" src="https://github.com/user-attachments/assets/7b143bbe-0a22-412e-beef-d3b3cee9cbf8" />
+
+<img width="419" height="357" alt="Snippet 2" src="https://github.com/user-attachments/assets/672a549c-09fe-481b-8497-2631d949716d" />
+
+<img width="613" height="407" alt="Snippet 3" src="https://github.com/user-attachments/assets/e631e1f4-e3c0-4283-b768-be7df11b2f3d" />
+
+
 ## Project Objectives
 - Calculate daily stock returns from historical price data
 - Measure volatility and risk characteristics of each asset
